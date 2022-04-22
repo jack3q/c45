@@ -1,0 +1,11 @@
+{"frames":{"download0.png":{"frame":{"x":0,"y":0,"w":225,"h":225},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":225,"h":225},
+"sourceSize":{"w":225,"h":225}},
+"download1.png":{"frame":{"x":0,"y":225,"w":225,"h":225},
+"rotated":false,"trimmed":false,
+"spriteSourceSize":{"x":0,"y":0,"w":225,"h":225},
+"sourceSize":{"w":225,"h":225}}},
+"meta":{"app":"https://github.com/piskelapp/piskel/",
+    "version":"1.0",
+    "image":"download.png",
+    "format":"RGBA8888",
+    "size":{"w":225,"h":450}}}
